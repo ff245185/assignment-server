@@ -1,0 +1,81 @@
+
+[
+	{
+		"id": "1",
+		"cover": "https://www.inovex.de/wp-content/uploads/2020/10/Zeichenfla%CC%88che-1.png",
+		"details": "JavaScript, is a scripting language wold 76% website use this language",
+		"videos": 45,
+		"ratings": 5,
+		"mentor": "abdullah",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"coursesName": "Introducing to JavaScript.",
+		"priceAll": "$100",
+		"totalTime": "(30 hrs)",
+		"pricePer": "$5515 per month"
+	},
+	{
+		"id": "2",
+		"cover": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/105272987/original/455e0084b0cde71482f4fd102e42c3dc0a1ff05a/do-web-development-with-python-django-and-bootstrap.jpeg",
+		"details": "Django is a powerful language. fastest and secure wold all big big companey use trhis promming languager",
+		"videos": 40,
+		"ratings": 5,
+		"coursesName": "Python Django",
+		"mentor": "rana farhuk",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"priceAll": "$5200",
+		"totalTime": "(50 hrs)",
+		"pricePer": "$525 per month"
+	},
+	{
+		"id": "3",
+		"cover": "https://www.moweb.com/uploads/blogs/original/1651273914best-nodejs-frameworks.png",
+		"details": "Node.js is an open-source, secure javascript run time language. its is not programming language but its faster and powerful ",
+		"videos": 48,
+		"ratings": 5,
+		"coursesName": "Node JS Course",
+		"mentor": "rkib raj",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"priceAll": "$550",
+		"totalTime": "(30 hrs)",
+		"pricePer": "$55 per month"
+	},
+	{
+		"id": "4",
+		"cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--HAY4QNhD--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nigommoqt57x17bwt8m3.png",
+		"details": "React · Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state, then compose",
+		"videos": 50,
+		"ratings": 5,
+		"coursesName": "React Course",
+		"mentor": "Jhankar Mahbub",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"priceAll": "$6600",
+		"totalTime": "(100 hrs)",
+		"pricePer": "$553 per month"
+	},
+	{
+		"id": "5",
+		"cover": "https://miro.medium.com/max/1024/1*z4F6b8SsJ5jgpg1axY90fA.png",
+		"details": "A popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to ",
+		"videos": 25,
+		"ratings": 5,
+		"coursesName": "Introducing to PHP",
+		"mentor": "jamal kahn",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"priceAll": "$6300",
+		"totalTime": "(45 hrs)",
+		"pricePer": "$360 per month"
+	},
+	{
+		"id": "6",
+		"cover": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",
+		"details": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, ",
+		"videos": 35,
+		"ratings": 5,
+		"coursesName": "Frontend Developer",
+		"mentor": "imtiaz alam",
+		"mentor_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+		"priceAll": "$600",
+		"totalTime": "(50 hrs)",
+		"pricePer": "$860 per month"
+	}
+]
