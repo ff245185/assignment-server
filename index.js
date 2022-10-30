@@ -19,7 +19,7 @@ app.get("/courses-categories/:id", (req, res) => {
   const coursesCategories = courses.find((c) => c.id == id);
   res.send(coursesCategories);
 });
-
+// secend component
 
 app.get("/courses", (req, res) => {
   res.send(courses);
