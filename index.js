@@ -9,6 +9,8 @@ app.get("/", (req, res) => {
   res.send("Courses Api Running");
 });
 
+// fast 
+
 app.get("/courses-categories", (req, res) => {
   res.send(categories);
 });
@@ -17,6 +19,7 @@ app.get("/courses-categories/:id", (req, res) => {
   const coursesCategories = courses.find((c) => c.id == id);
   res.send(coursesCategories);
 });
+
 
 app.get("/courses", (req, res) => {
   res.send(courses);
